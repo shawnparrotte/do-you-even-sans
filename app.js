@@ -52,7 +52,7 @@ function success(){
   $("#total").text(total);
 
   $("#daFont").css("color", "lightgreen")
-  $("#daFont").css("font-family", "Helvetica")
+  $("#daFont").css("font-family", "Comic Sans MS")
   $("#daFont").text("Correct!");
   $("#daFont").addClass("animated bounceIn");
 
@@ -70,7 +70,7 @@ function fail(){
   $("#total").text(total);
 
   $("#daFont").css("color", "red");
-  $("#daFont").css("font-family", "Helvetica")
+  $("#daFont").css("font-family", "Comic Sans MS")
   $("#daFont").text("Nope!");
   $("#daFont").addClass("animated bounceIn");
 
