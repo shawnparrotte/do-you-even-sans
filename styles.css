@@ -22,12 +22,12 @@
 
 .answerWrapper {
   text-align: center;
-  font-family: Helvetica;
+  font-family: "Comic Sans MS";
   font-size: 30px;
 }
 
 #daFont {
-  font-family: Helvetica;
+  font-family: "Comic Sans MS";
   font-size: 50px;
 }
 
@@ -46,12 +46,12 @@
 }
 
 h1 {
-  font-family: Helvetica;
+  font-family: "Comic Sans MS";
   font-size: 40px;
 }
 
 h2 {
-  font-family: Helvetica;
+  font-family: Comic;
   font-size: 25px;
   margin: 0;
   border: 1px solid lightgrey;
@@ -110,5 +110,5 @@ h2 {
   h2 {
     font-size: 12px;
   }
-  
+
 }
